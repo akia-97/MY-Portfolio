@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #My Personal Portfolio
 
 Hi! Wellcome to my personal portfolio project.
@@ -17,3 +18,6 @@ It includes the following sections:
    *HTML
    *CSS
    *VS Code 
+=======
+# MY-Portfolio
+>>>>>>> a50ac74d3b90039c37345e7b3a69e381426aa24a
