@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #My Personal Portfolio
 
 Hi! Wellcome to my personal portfolio project.
@@ -19,5 +19,6 @@ It includes the following sections:
    *CSS
    *VS Code 
 =======
-# MY-Portfolio
->>>>>>> a50ac74d3b90039c37345e7b3a69e381426aa24a
+#  View MY-Portfolio
+you can view the website on https://github.com/akia-97/MY-Portfolio
+
