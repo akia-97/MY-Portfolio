@@ -20,5 +20,5 @@ It includes the following sections:
    *VS Code 
 =======
 #  View MY-Portfolio
-you can view the website on akia-97.github.io/MY-Portfolio/
+you can view the website on https://akia-97.github.io/MY-Portfolio/
 
